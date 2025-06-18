@@ -76,7 +76,7 @@ This indicator is provided for analytical purposes only. It is designed to assis
 
 ## 🚀 Quick Start
 ### For MetaTrader 4
-1. Download MQL4/Indicators/Correlation.mq4
+1. Download MQL4/Indicators/[**Correlation.mq4**](https://raw.githubusercontent.com/MuhammidKhaled/Correlation_Indicator/main/MQL4/Correlation.mq4)
 2. Copy to MetaTrader 4/MQL4/Indicators/
 3. Restart MT4 and apply to chart
 ### For MetaTrader 5
