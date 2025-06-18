@@ -1,0 +1,12 @@
+# Compiled files
+*.ex4
+
+# Log and backup files
+*.log
+*.bak
+*.mq4~
+*.mqh~
+
+# System files
+.DS_Store
+Thumbs.db
