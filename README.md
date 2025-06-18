@@ -1,6 +1,7 @@
 # Correlation Trading Indicator
 
-A sophisticated correlation-based trading indicator for MetaTrader 4 and MetaTrader 5 that visualizes inter-market relationships to help traders make informed decisions.
+A correlation-based trading indicator for MetaTrader 4 and MetaTrader 5 that visualizes inter-market relationships. It utilizes the price action of the strongest positively correlated instrument as an indication of potential future trend movements, thereby helping traders make informed decisions.
+
 
 
 ## 🎯 Features
@@ -70,9 +71,7 @@ The indicator replaces traditional moving averages with the price action of the 
 
 
 ## ⚠️ Disclaimer
-This indicator is provided for analytical purposes only. It is designed to assist users in visualizing inter-market relationships and enhancing their market analysis to make more informed trading decisions.
-
-It is not intended to provide direct buy or sell signals, nor does it guarantee any specific trading results or profits.
+This indicator is provided for analytical purposes only. It is designed to assist traders in visualizing inter-market relationships and enhancing their market analysis to make more informed trading decisions.It is not intended to provide direct buy or sell signals, nor does it guarantee any specific trading results or profits.
 
 
 ## 🚀 Quick Start
