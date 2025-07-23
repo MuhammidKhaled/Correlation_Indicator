@@ -41,8 +41,6 @@ string pairXAUUSD = "XAUUSD";
 string pairXAGUSD = "XAGUSD"; 
 string pairBTCUSD = "BTCUSD";   
 string pairNAS100 = "NAS100";   
-string pairETHUSD = "ETHUSD";   
-string pairLTCUSD = "LTCUSD";   
 
 
 color colorAUDUSD = IndicatorColor;        
@@ -183,9 +181,7 @@ int OnInit()
     string fullXAUUSD = GetSymbolName(pairXAUUSD);  
     string fullXAGUSD = GetSymbolName(pairXAGUSD);  
     string fullBTCUSD = GetSymbolName(pairBTCUSD);  
-    string fullNASDAQ = GetSymbolName(pairNAS100);  
-    string fullETHUSD = GetSymbolName(pairETHUSD);   
-    string fullLTCUSD = GetSymbolName(pairLTCUSD);   
+    string fullNASDAQ = GetSymbolName(pairNAS100);   
     
     string currentChart = Symbol();
     string baseCurrentChart = StringSubstr(currentChart, 0, 6);
